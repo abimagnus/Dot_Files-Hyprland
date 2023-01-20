@@ -1,0 +1,4 @@
+2023-01-18 20:14:48.367 [info] update#setState idle
+2023-01-18 20:14:49.305 [info] Starting extension host with pid 6507 (fork() took 22 ms).
+2023-01-18 20:15:05.162 [info] Waiting for extension host with pid 6507 to exit.
+2023-01-18 20:15:05.165 [info] Extension host with pid 6507 exited with code: 0, signal: null.

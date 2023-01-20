@@ -1,0 +1,8 @@
+2023-01-18 20:14:49.704 [info] Starting worker process with pid 6547 (type: fileWatcher, window: 1).
+2023-01-18 20:14:52.787 [info] Getting Manifest... ms-python.python
+2023-01-18 20:14:54.127 [info] Installing extension: ms-python.python
+2023-01-18 20:14:55.336 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.09a74321-e7e0-4480-ba1c-0fae65982f85: ms-python.python
+2023-01-18 20:14:55.343 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-python.python-2022.20.2-universal
+2023-01-18 20:14:55.344 [info] Extracting completed. ms-python.python
+2023-01-18 20:14:55.351 [info] Extension installed successfully: ms-python.python
+2023-01-18 20:14:55.361 [info] Marked extension as uninstalled ms-python.python-2022.20.1-universal

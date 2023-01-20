@@ -1,0 +1,16 @@
+2023-01-08 14:54:48.665 [info] Extension host with pid 38946 started
+2023-01-08 14:54:48.740 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-08 14:54:48.763 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-08 14:54:48.763 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-08 14:54:48.837 [info] Eager extensions activated
+2023-01-08 14:54:48.848 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 14:54:48.848 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 14:54:48.848 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-08 14:55:57.575 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onWalkthrough:jupyterWelcome'
+2023-01-08 14:55:57.575 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+2023-01-08 14:55:58.200 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-01-08 14:55:59.357 [error] Error: Module 'pip' not installed.
+	at l.execModule (/home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal/out/extension.node.js:7:84160)
+	at async r.getPackageInformation (/home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal/out/extension.node.js:17:42560)
+2023-01-08 14:56:13.676 [info] Extension host terminating: received terminate message from renderer
+2023-01-08 14:56:13.686 [info] Extension host with pid 38946 exiting with code 0

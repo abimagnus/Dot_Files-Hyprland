@@ -1,0 +1,29 @@
+VSCodium (1.74.2, undefined, desktop)
+Jupyter Extension Version: 2022.10.110.
+Python Extension Version: 2022.20.1.
+No workspace folder opened.
+info 14:55:57.920: ZMQ install verified.
+info 14:55:58.157: LSP Notebooks experiment is disabled -- Pylance disabled or not installed
+info 14:55:58.168: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 14:55:58.171: Process Execution: > jupyter lab --version
+> jupyter lab --version
+info 14:55:58.313: Got empty env vars with python /usr/bin/python in 10ms
+info 14:55:58.313: Got env vars ourselves faster /usr/bin/python with env var count 59 in 10ms
+info 14:55:58.318: Process Execution: > /usr/bin/python -m pip list
+> /usr/bin/python -m pip list
+info 14:55:58.336: Process Execution: > /usr/bin/python -c "import pip"
+> /usr/bin/python -c "import pip"
+error 14:55:58.350: interpreterPackages getPackageInformation, Class name = r, completed in 47ms, has a falsy return value, Arg 1: {"interpreter":{"id":"/usr/bin/python","sysPrefix":"/usr","envPath":{"$mid":1,"fsPath":"/usr/bin/python","path":"/usr/bin/python","scheme":"file"},"uri":{"$mid":1,"fsPath":"/usr/bin/python","external":"file:///usr/bin/python","path":"/usr/bin/python","scheme":"file"},"envType":"Unknown","version":{"major":3,"minor":10,"patch":9,"raw":"3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]"}}} [i [Error]: Module 'pip' not installed.
+	at l.execModule (/home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal/out/extension.node.js:7:84160)
+	at async r.getPackageInformation (/home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal/out/extension.node.js:17:42560)] {
+  category: 'notinstalled',
+  moduleName: 'pip'
+}
+info 14:56:13.682: Shutting down notebooks for f28886db-29d7-41d5-8a2d-09a9e23ac182
+info 14:56:13.682: Disposing HostJupyterExecution 81517931-753b-45f8-816d-97e55c692fac
+info 14:56:13.682: Disposing super HostJupyterExecution 81517931-753b-45f8-816d-97e55c692fac
+info 14:56:13.682: Disposing HostJupyterExecution 81517931-753b-45f8-816d-97e55c692fac
+info 14:56:13.682: Finished disposing HostJupyterExecution  81517931-753b-45f8-816d-97e55c692fac
+info 14:56:13.684: Cleaning up server cache 81517931-753b-45f8-816d-97e55c692fac
+info 14:56:13.684: Finished disposing HostJupyterExecution  81517931-753b-45f8-816d-97e55c692fac

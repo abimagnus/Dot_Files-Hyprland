@@ -1,0 +1,6 @@
+2023-01-08 14:54:47.285 [info] update#setState idle
+2023-01-08 14:54:48.131 [info] Starting extension host with pid 38946 (fork() took 4 ms).
+2023-01-08 14:55:17.275 [info] update#setState checking for updates
+2023-01-08 14:55:17.640 [info] update#setState idle
+2023-01-08 14:56:13.693 [info] Extension host with pid 38946 exited with code: 0, signal: null.
+2023-01-08 14:56:13.699 [info] Waiting for extension host with pid 38946 to exit.

@@ -1,0 +1,64 @@
+## Config For Mako
+
+# Sorts incoming notifications by time
+sort=-time
+
+# Enable Pango Markup
+markup=1
+
+# Set notification format string to format
+format=<b>%s</b>\n%b
+
+# Arrange mako at the specified layer, relative to normal windows
+# Supported values are background, bottom, top, and overlay
+layer=overlay
+
+# Show notifications at the specified position
+anchor=top-right
+
+# Set background color
+background-color=#2e3440
+
+# STYLE OPTIONS
+width=300
+height=100
+border-size=2
+text-alignment=left
+
+# Set popup border color to color
+border-color=#88c0d0
+
+# Set popup corner radius to px pixels
+border-radius=15
+
+# Show icons in notifications
+icons=1
+
+# Position of the icon relative to the displayed text
+icon-location=left
+
+# Set maximum icon size to px pixels
+max-icon-size=48
+
+# Set the default timeout to timeout in milliseconds
+default-timeout=5000
+
+# If set, mako will ignore the expire timeout sent by notifications and use the one provided by default-timeout instead
+ignore-timeout=1
+
+# Set font to font, in Pango format
+font=MesloLGS Nerd Font 12
+
+[urgency=low]
+border-color=#cccccc
+
+[urgency=normal]
+border-color=#d08770
+
+[urgency=high]
+border-color=#bf616a
+default-timeout=0
+
+[category=mpd]
+default-timeout=2000
+group-by=category

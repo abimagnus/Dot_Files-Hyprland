@@ -1,0 +1,3 @@
+2023-01-09 22:31:28.643 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/dragoneye/Documents/fstab","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-01-09 22:31:31.853 [info] [perf] Render performance baseline is 44ms
+2023-01-09 22:31:39.048 [error] Error while registering log channel file:///home/dragoneye/.config/VSCodium/logs/20230109T223127/userDataSync.log Timed out while waiting for file to be created

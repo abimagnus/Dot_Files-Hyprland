@@ -1,0 +1,2 @@
+2023-01-08 15:23:44.158 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/dragoneye/.config/hypr/hyprland.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-01-08 15:23:47.393 [info] [perf] Render performance baseline is 46ms

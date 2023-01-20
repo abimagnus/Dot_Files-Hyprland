@@ -1,0 +1,43 @@
+2023-01-08 14:54:48.494 [info] Starting worker process with pid 38986 (type: fileWatcher, window: 1).
+2023-01-08 14:55:32.880 [info] Getting Manifest... ms-python.python
+2023-01-08 14:55:33.051 [info] Installing extension: ms-python.python
+2023-01-08 14:55:33.692 [info] Getting Manifest... ms-toolsai.jupyter
+2023-01-08 14:55:35.084 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-01-08 14:55:35.969 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-01-08 14:55:36.856 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-01-08 14:55:37.745 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-01-08 14:55:38.632 [info] Getting Manifest... ms-python.isort
+2023-01-08 14:55:39.560 [info] Installing extension: ms-toolsai.jupyter ms-python.python
+2023-01-08 14:55:39.560 [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+2023-01-08 14:55:39.560 [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+2023-01-08 14:55:39.561 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+2023-01-08 14:55:39.561 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+2023-01-08 14:55:39.561 [info] Installing extension: ms-python.isort ms-python.python
+2023-01-08 14:55:42.324 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.7dff21e7-573a-4bef-957c-4812ef6a9a24: ms-toolsai.jupyter-keymap
+2023-01-08 14:55:42.328 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-keymap-1.0.0-universal
+2023-01-08 14:55:42.329 [info] Extracting completed. ms-toolsai.jupyter-keymap
+2023-01-08 14:55:42.664 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.f02fb46b-3cd7-42a0-ba91-7489e32664f5: ms-toolsai.vscode-jupyter-slideshow
+2023-01-08 14:55:42.669 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5-universal
+2023-01-08 14:55:42.670 [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+2023-01-08 14:55:43.393 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.bbd5cc32-0ba6-419c-97ed-e9575f996b9f: ms-toolsai.vscode-jupyter-cell-tags
+2023-01-08 14:55:43.398 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6-universal
+2023-01-08 14:55:43.399 [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-01-08 14:55:53.275 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.c901baef-05b0-4d45-8dcd-5f24e366800a: ms-toolsai.jupyter-renderers
+2023-01-08 14:55:53.280 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-renderers-1.0.12-universal
+2023-01-08 14:55:53.281 [info] Extracting completed. ms-toolsai.jupyter-renderers
+2023-01-08 14:55:53.893 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.6e8264c0-358c-4429-9f47-5fe000442af4: ms-python.python
+2023-01-08 14:55:53.900 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-python.python-2022.20.1-universal
+2023-01-08 14:55:53.903 [info] Extracting completed. ms-python.python
+2023-01-08 14:55:56.041 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.104e5ca0-dbe3-470c-a7ba-4360883456eb: ms-toolsai.jupyter
+2023-01-08 14:55:56.048 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-toolsai.jupyter-2022.10.110-universal
+2023-01-08 14:55:56.057 [info] Extracting completed. ms-toolsai.jupyter
+2023-01-08 14:55:57.274 [info] Extracted extension to /home/dragoneye/.vscode-oss/extensions/.4a776b34-1342-43e4-b49c-bd7d83ce76fc: ms-python.isort
+2023-01-08 14:55:57.280 [info] Renamed to /home/dragoneye/.vscode-oss/extensions/ms-python.isort-2022.8.0-universal
+2023-01-08 14:55:57.281 [info] Extracting completed. ms-python.isort
+2023-01-08 14:55:57.289 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-01-08 14:55:57.289 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-01-08 14:55:57.289 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-01-08 14:55:57.290 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-01-08 14:55:57.290 [info] Extension installed successfully: ms-python.python
+2023-01-08 14:55:57.290 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-01-08 14:55:57.290 [info] Extension installed successfully: ms-python.isort
