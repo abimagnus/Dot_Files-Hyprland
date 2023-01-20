@@ -10,4 +10,4 @@
 
 </div>
 
-## Personal customization dor files for Hyprland Window Manager
+## Personal dot config files for Hyprland Window Manager
