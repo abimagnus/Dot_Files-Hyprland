@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>✨abimagnus dot files for Hyprland✨</h1>
+    <h1>✨dot files for Hyprland✨</h1>
     <h3></h3>
 </div>
 
